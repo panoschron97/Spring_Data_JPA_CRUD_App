@@ -1,1 +1,1 @@
-# Spring_Data_JPA_CRUD_App
+# Spring_Data_JPA_Crud_App
